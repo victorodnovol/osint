@@ -1,0 +1,6 @@
+.idea
+__pycache__
+dist
+osint.egg-info
+venv
+build/lib/full_scripts
